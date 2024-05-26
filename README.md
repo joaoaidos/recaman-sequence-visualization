@@ -22,11 +22,12 @@ Ensure you have the following installed on your system:
 
 ### Building the Program
 
-Clone the repository and run the build script to compile the program. The raylib library is included, so no additional setup is required.
+Clone the repository and run the build script to compile the program. The
+raylib library is included, so no additional setup is required.
 
 ```bash
-git clone https://github.com/joaoaidos/Recaman.git
-cd recaman
+git clone https://github.com/joaoaidos/recaman-sequence-visualization.git
+cd recaman-sequence-visualization 
 ./build.sh
 ```
 
