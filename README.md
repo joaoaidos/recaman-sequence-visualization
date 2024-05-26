@@ -5,6 +5,8 @@ implemented in C using the raylib library. The program automatically zooms out
 to display the expanding sequence, offering a captivating look at this
 mathematical phenomenon.
 
+![Recamán's Sequence Preview](./assets/recman_preview.png) 
+
 ## Features
 
 - **Automatic Zoom Out**: The visualization smoothly zooms out to accommodate the growing sequence.
